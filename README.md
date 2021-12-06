@@ -7,7 +7,7 @@ In this repository I have implemented **round robin** task scheduling algorithm 
 ```
 version: 3.0.3
 ```
-## How to Use 
+## How to Use
 Download the code and add it in the example package and run as usual. This code has been implemented during the initial time of my research to learn
 more about **clousim**. 
 
