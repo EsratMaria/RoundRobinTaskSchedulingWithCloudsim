@@ -9,7 +9,7 @@ version: 3.0.3
 ```
 ## How to Use
 Download the code and add it in the example package and run as usual. This code has been implemented during the initial time of my research to learn
-more about **clousim**. 
+more about **clousim**.
 
 
 If you want to implement **SJF** algorithm you can have a look at this repository [here](https://gist.github.com/Farwa-Rajput/3bb3f69aa985bf4587edfa5612925fed).
